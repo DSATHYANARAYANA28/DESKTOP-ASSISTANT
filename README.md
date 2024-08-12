@@ -1,5 +1,6 @@
 # DESKTOP-ASSISTANT
-##1. Dependencies:
+
+#1. Dependencies:
 
 speech_recognition: Speech recognition library
 datetime: Date and time manipulation library
@@ -7,9 +8,8 @@ subprocess: Subprocess management library (for opening Chrome)
 pywhatkit: Python wrapper for interacting with WhatsApp (for playing videos on YouTube)
 pyttsx3: Text-to-speech library
 wikipedia: Python library for accessing Wikipedia data
-##2. Functionality Overview:
 
-This Python code implements a simple virtual assistant capable of:
+#2. Functionality Overview:
 
 Listening to user input using a microphone and speech recognition.
 Responding to commands:
